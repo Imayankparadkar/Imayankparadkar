@@ -1,5 +1,13 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on AI-driven projects, web development, hackathons, and innovative problem-solving applications.<br><br>🤝 I’m looking for help with scaling my mentorship platform, optimizing AI solutions, and refining business strategies for my projects.<br><br>🌱 I’m currently learning advanced AI integrations and strategies for startup growth.<br><br>💬 Ask me about web development, AI-driven automation, hackathons, UI/UX design, databases, and tech-driven problem-solving.<br><br>⚡ Fun fact I’ve won multiple hackathons and love turning ideas into real-world solutions! 🚀
+👯 I’m looking to collaborate on AI-driven projects, web development, hackathons, and innovative problem-solving applications.<br><br>
+
+🤝 I’m looking for help with scaling my mentorship platform, optimizing AI solutions, and refining business strategies for my projects.<br><br>
+
+🌱 I’m currently learning advanced AI integrations and strategies for startup growth.<br><br>
+
+💬 Ask me about web development, AI-driven automation, hackathons, UI/UX design, databases, and tech-driven problem-solving.<br><br>
+
+⚡ Fun fact: I’m a 3x Hackathon Winner, have completed a Web Development Internship, and love turning ideas into real-world solutions! 🚀
 
 
 ## 🌐 Socials:
