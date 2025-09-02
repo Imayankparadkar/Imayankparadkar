@@ -1,14 +1,9 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on AI-driven projects, web development, hackathons, and innovative problem-solving applications.<br><br>
-
-🤝 I’m looking for help with scaling my mentorship platform, optimizing AI solutions, and refining business strategies for my projects.<br><br>
-
-🌱 I’m currently learning advanced AI integrations and strategies for startup growth.<br><br>
-
-💬 Ask me about web development, AI-driven automation, hackathons, UI/UX design, databases, and tech-driven problem-solving.<br><br>
-
-⚡ Fun fact: I’m a 3x Hackathon Winner, have completed a Web Development Internship, and love turning ideas into real-world solutions! 🚀
-
+<p>👯 I’m looking to collaborate on <strong>AI-driven projects, web development, hackathons, and innovative problem-solving applications.</strong><br><br>
+🤝 I’m looking for help with <strong>scaling my mentorship platform, optimizing AI solutions, and refining business strategies</strong> for my projects.<br><br>
+🌱 I’m currently learning <strong>advanced AI integrations and strategies for startup growth.</strong><br><br>
+💬 Ask me about <strong>web development, AI-driven automation, hackathons, UI/UX design, databases, and tech-driven problem-solving.</strong><br><br>
+⚡ Fun fact: I’m a <strong>3x Hackathon Winner</strong>, have completed a <strong>Web Development Internship</strong>, and love turning ideas into <strong>real-world solutions! 🚀</strong></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immayankparadkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MayankParadkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:immayankparadkar@gmail.com) 
