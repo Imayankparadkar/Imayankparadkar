@@ -148,11 +148,37 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
         }
     }'''
     variables = {'repo_name': repo_name, 'owner': owner, 'cursor': cursor}
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS) # I cannot use simple_request(), because I want to save the file before raising Exception
+    
+    retries = 3
+    request = None
+    for attempt in range(retries):
+        try:
+            request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
+            if request.status_code == 200:
+                break
+            elif request.status_code in [502, 503, 504]:
+                time.sleep(2 * (attempt + 1))
+                continue
+            else:
+                break
+        except Exception:
+            if attempt < retries - 1:
+                time.sleep(2 * (attempt + 1))
+                continue
+            raise
+
+    if request is None:
+        return addition_total, deletion_total, my_commits
+
     if request.status_code == 200:
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
         else: return 0
+
+    if request.status_code in [502, 503, 504]:
+        print(f"Warning: recursive_loc failed with {request.status_code} for {owner}/{repo_name} after {retries} retries. Skipping.")
+        return addition_total, deletion_total, my_commits
+
     force_close_file(data, cache_comment) # saves what is currently in the file before this program crashes
     if request.status_code == 403:
         raise Exception('Too many requests in a short amount of time!\nYou\'ve hit the non-documented anti-abuse limit!')
