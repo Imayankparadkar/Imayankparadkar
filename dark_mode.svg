@@ -22,7 +22,7 @@ text, tspan {white-space: pre;}
 <text x="355" y="30" fill="#c9d1d9">
 <tspan x="355" y="30">mayank@github</tspan> <tspan class="cc">────────────────────────────────────────────</tspan>
 <tspan x="355" y="90" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc" id="os_data_dots"> ......................... </tspan><tspan class="value" id="os_data">Windows 11</tspan>
-<tspan x="355" y="112" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">20 years, 9 months, 26 days</tspan>
+<tspan x="355" y="112" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">21 years, 2 months, 21 days</tspan>
 <tspan x="355" y="134" class="cc">. </tspan><tspan class="key">Runtime</tspan>:<tspan class="cc" id="runtime_dots"> .................... </tspan><tspan class="value" id="runtime_data">Caffeine + Curiosity</tspan>
 <tspan x="355" y="156" class="cc">. </tspan><tspan class="key">Mode</tspan>:<tspan class="cc" id="mode_dots"> ....................... </tspan><tspan class="value" id="mode_data">Building &amp; Learning</tspan>
 <tspan x="355" y="178" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc" id="stack_dots"> ...................... </tspan><tspan class="value" id="stack_data">MERN + AI</tspan>
