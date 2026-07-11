@@ -1,0 +1,141 @@
+{
+  "personal": {
+    "name": "Mayank Paradkar",
+    "username": "Imayankparadkar",
+    "githubUsername": "Imayankparadkar",
+    "linkedinUsername": "mayankparadkar",
+    "website": "",
+    "email": "immayankparadkar@gmail.com",
+    "location": "Indore, Madhya Pradesh, India",
+    "birthdate": "2005-09-15",
+    "bio": "Third-year Engineering student at IET DAVV, Indore with a strong focus on Full-Stack Development, Software Engineering, AI, UI/UX, and Competitive Programming."
+  },
+  "education": {
+    "college": "Institute of Engineering & Technology (IET), DAVV",
+    "degree": "Bachelor of Engineering",
+    "branch": "Electronics & Instrumentation Engineering",
+    "graduationYear": "2027",
+    "cgpa": "7.69"
+  },
+  "career": {
+    "role": "Software Engineering Student",
+    "company": "Mittal Alliance Industries Pvt. Ltd.",
+    "currentlyLearning": [
+      "Data Structures & Algorithms",
+      "System Design",
+      "Next.js",
+      "NestJS",
+      "AI Applications"
+    ],
+    "lookingFor": "Software Engineering Internship",
+    "openToWork": true
+  },
+  "tech": {
+    "languages": [
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "Tailwind CSS"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "Firebase",
+      "Supabase",
+      "Astra DB"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Figma",
+      "Postman",
+      "Docker"
+    ]
+  },
+  "environment": {
+    "os": "Windows 11",
+    "ide": "Visual Studio Code",
+    "terminal": "Windows Terminal",
+    "browser": "Microsoft Edge",
+    "theme": "Dark"
+  },
+  "social": {
+    "github": "https://github.com/Imayankparadkar",
+    "linkedin": "https://www.linkedin.com/in/mayankparadkar",
+    "portfolio": "",
+    "leetcode": "",
+    "codeforces": "",
+    "codechef": ""
+  },
+  "contact": {
+    "email": "immayankparadkar@gmail.com",
+    "linkedin": "mayankparadkar",
+    "discord": "imayankparadkar"
+  },
+  "skills": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "NestJS"
+    ],
+    "database": [
+      "MongoDB",
+      "PostgreSQL",
+      "Firebase",
+      "Supabase",
+      "Astra DB"
+    ],
+    "ai": [
+      "LLMs",
+      "Groq API",
+      "LangFlow",
+      "Prompt Engineering"
+    ]
+  },
+  "achievements": [
+    "Winner - DevCraft Hackathon, IIT Indore",
+    "Top 20 - Build Fest '25 (IIT Bombay x Google Cloud)",
+    "Winner - Genesis Hackathon",
+    "Winner - Flowathon Hackathon",
+    "Winner - GDG Inter-College UI/UX Design Competition"
+  ],
+  "languagesSpoken": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "interests": [
+    "Software Engineering",
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Competitive Programming",
+    "Hackathons",
+    "Open Source",
+    "UI/UX Design"
+  ],
+  "preferences": {
+    "favoriteLanguage": "C++",
+    "favoriteEditor": "Visual Studio Code",
+    "accentColor": "#3B82F6",
+    "backgroundColor": "#0D1117"
+  }
+}
